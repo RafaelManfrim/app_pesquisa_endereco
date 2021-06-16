@@ -1,0 +1,54 @@
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>App Pesquisa Endereço</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+		<style>
+
+			@media (max-width: 576px){
+				.margin-extra-small{
+					margin-bottom: 15px;
+				}
+
+				h2{
+					font-size: 28px;
+				}
+			}	
+
+		</style>
+
+	</head>
+	<body>
+
+		<div class="p-3 mb-3 bg-secondary">
+			<div class="container text-center">
+				<h2 class="text-white">App Pesquisa Endereço</h2>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row form-group">
+				<div class="col-sm-3 margin-extra-small">
+					<input type="text" class="form-control" placeholder="CEP">
+				</div>
+				<div class="col-sm-9">
+					<input type="text" class="form-control" placeholder="Endereço" readonly>
+				</div>
+			</div>
+
+			<div class="row form-group">
+				<div class="col-sm-6 margin-extra-small">
+					<input type="text" class="form-control" placeholder="Bairro" readonly>
+				</div>
+				<div class="col-sm-4 margin-extra-small">
+					<input type="text" class="form-control" placeholder="Cidade" readonly>
+				</div>
+
+				<div class="col-sm-2 margin-extra-small">
+					<input type="text" class="form-control" placeholder="UF" readonly>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
