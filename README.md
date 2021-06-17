@@ -1,7 +1,7 @@
 # Udemy_App_Pesquisa_Endereço
 
 ## Descrição do Projeto
-<p align="center">Software que recebe um CEP e por meio da API ViaCEP e recebe as informações em um formato JSON, exibindo então para o usuário.</p>
+<p align="center">Software que recebe um CEP e por meio da API ViaCEP recebe as informações em formato JSON, exibindo então para o usuário.</p>
 
 <h4 align="center"> 
 	🛠Em desenvolvimento🛠
