@@ -1,0 +1,9 @@
+@media (max-width: 576px){
+    .margin-extra-small{
+        margin-bottom: 15px;
+    }
+
+    h2{
+        font-size: 28px;
+    }
+}

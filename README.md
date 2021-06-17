@@ -10,7 +10,8 @@
 ### Features
 
 - [X] Design da interface
-- [ ] Recebimento do CEP e exibição das informações
+- [X] Recebimento do CEP e exibição das informações
+- [X] Melhorias e organização de arquivos
 
 ### Pré-requisitos
 
